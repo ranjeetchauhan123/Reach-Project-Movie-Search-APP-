@@ -1,6 +1,6 @@
 🚀 Live Demo
 
-🔗 Live Project: reach-project-movie-search-91c1s9h4i-ranjeet-chauans-projects.vercel.app
+🔗 Live Project: https://reach-project-movie-search-91c1s9h4i-ranjeet-chauans-projects.vercel.app/
 
 (Replace with your actual Netlify/Vercel link)
 
